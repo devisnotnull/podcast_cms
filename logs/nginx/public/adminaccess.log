@@ -10929,3 +10929,7 @@
 62.232.114.202 - - [04/Jun/2013:08:01:19 +0200] "GET /podcast-img-flags/imgrender.php?podcast_id=1&percent_width=10 HTTP/1.1" 302 5 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22"
 62.232.114.202 - - [04/Jun/2013:08:01:21 +0200] "GET /podcasts-out/?podcastname=Best_Of_The_Bets_Show HTTP/1.1" 200 15645 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22"
 62.232.114.202 - - [04/Jun/2013:08:03:24 +0200] "GET /podcasts-out/?podcastname=Best_Of_The_Bets_Show HTTP/1.1" 200 15645 "-" "iTunes/11.0.2 (Windows; Microsoft Windows 7 x64 Business Edition Service Pack 1 (Build 7601)) AppleWebKit/536.27.1"
+17.154.84.41 - - [04/Jun/2013:08:33:47 +0200] "HEAD /podcasts-out/?podcastname=Best_Of_The_Bets_Show HTTP/1.1" 200 0 "-" "iTMS"
+17.154.84.39 - - [04/Jun/2013:08:33:47 +0200] "HEAD /podcasts-out/?podcastname=Best_Of_The_Bets_Show HTTP/1.1" 200 0 "-" "iTMS"
+17.154.84.40 - - [04/Jun/2013:08:33:47 +0200] "GET /podcasts-out/?podcastname=Best_Of_The_Bets_Show HTTP/1.1" 200 15639 "-" "iTMS"
+17.154.84.35 - - [04/Jun/2013:08:33:48 +0200] "GET /podcasts-out/?podcastname=Best_Of_The_Bets_Show HTTP/1.1" 200 15639 "-" "Jakarta Commons-HttpClient/3.0"
