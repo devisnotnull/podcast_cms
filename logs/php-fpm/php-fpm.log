@@ -1,0 +1,96 @@
+[10-Apr-2013 08:24:33] NOTICE: fpm is running, pid 7307
+[10-Apr-2013 08:24:33] NOTICE: ready to handle connections
+[10-Apr-2013 08:24:35] NOTICE: Terminating ...
+[10-Apr-2013 08:24:35] NOTICE: exiting, bye-bye!
+[10-Apr-2013 08:24:35] NOTICE: fpm is running, pid 7328
+[10-Apr-2013 08:24:35] NOTICE: ready to handle connections
+[10-Apr-2013 09:01:28] NOTICE: Terminating ...
+[10-Apr-2013 09:01:28] NOTICE: exiting, bye-bye!
+[10-Apr-2013 09:01:28] NOTICE: fpm is running, pid 7391
+[10-Apr-2013 09:01:28] NOTICE: ready to handle connections
+[10-Apr-2013 10:42:17] NOTICE: Terminating ...
+[10-Apr-2013 10:42:17] NOTICE: exiting, bye-bye!
+[10-Apr-2013 10:42:17] NOTICE: fpm is running, pid 12797
+[10-Apr-2013 10:42:17] NOTICE: ready to handle connections
+[10-Apr-2013 10:46:36] NOTICE: Terminating ...
+[10-Apr-2013 10:46:36] NOTICE: exiting, bye-bye!
+[10-Apr-2013 10:47:40] NOTICE: fpm is running, pid 12939
+[10-Apr-2013 10:47:40] NOTICE: ready to handle connections
+[10-Apr-2013 10:47:46] NOTICE: Terminating ...
+[10-Apr-2013 10:47:46] NOTICE: exiting, bye-bye!
+[10-Apr-2013 10:47:46] NOTICE: fpm is running, pid 12961
+[10-Apr-2013 10:47:46] NOTICE: ready to handle connections
+[10-Apr-2013 10:51:58] NOTICE: Terminating ...
+[10-Apr-2013 10:51:58] NOTICE: exiting, bye-bye!
+[10-Apr-2013 10:51:58] NOTICE: fpm is running, pid 15944
+[10-Apr-2013 10:51:58] NOTICE: ready to handle connections
+[10-Apr-2013 10:56:25] NOTICE: Terminating ...
+[10-Apr-2013 10:56:25] NOTICE: exiting, bye-bye!
+[10-Apr-2013 10:56:25] NOTICE: fpm is running, pid 16077
+[10-Apr-2013 10:56:25] NOTICE: ready to handle connections
+[12-Apr-2013 12:28:48] NOTICE: Terminating ...
+[12-Apr-2013 12:28:48] NOTICE: exiting, bye-bye!
+[12-Apr-2013 12:31:11] NOTICE: fpm is running, pid 1614
+[12-Apr-2013 12:31:11] NOTICE: ready to handle connections
+[12-Apr-2013 13:48:49] NOTICE: fpm is running, pid 1623
+[12-Apr-2013 13:48:49] NOTICE: ready to handle connections
+[16-Apr-2013 15:21:06] NOTICE: Terminating ...
+[16-Apr-2013 15:21:06] NOTICE: exiting, bye-bye!
+[16-Apr-2013 15:21:06] NOTICE: fpm is running, pid 9712
+[16-Apr-2013 15:21:06] NOTICE: ready to handle connections
+[16-Apr-2013 15:23:07] NOTICE: Terminating ...
+[16-Apr-2013 15:23:07] NOTICE: exiting, bye-bye!
+[16-Apr-2013 15:23:08] NOTICE: fpm is running, pid 9755
+[16-Apr-2013 15:23:08] NOTICE: ready to handle connections
+[17-Apr-2013 09:00:03] WARNING: [pool www] child 9759 exited on signal 11 (SIGSEGV - core dumped) after 63415.256235 seconds from start
+[17-Apr-2013 09:00:03] NOTICE: [pool www] child 10822 started
+[17-Apr-2013 09:00:09] WARNING: [pool www] child 9760 exited on signal 11 (SIGSEGV - core dumped) after 63421.248101 seconds from start
+[17-Apr-2013 09:00:09] NOTICE: [pool www] child 10972 started
+[18-Apr-2013 09:54:04] NOTICE: Terminating ...
+[18-Apr-2013 09:54:04] NOTICE: exiting, bye-bye!
+[18-Apr-2013 09:54:05] NOTICE: fpm is running, pid 12724
+[18-Apr-2013 09:54:05] NOTICE: ready to handle connections
+[18-Apr-2013 10:02:38] NOTICE: Terminating ...
+[18-Apr-2013 10:02:38] NOTICE: exiting, bye-bye!
+[18-Apr-2013 10:02:38] NOTICE: fpm is running, pid 12801
+[18-Apr-2013 10:02:38] NOTICE: ready to handle connections
+[18-Apr-2013 10:14:49] NOTICE: Terminating ...
+[18-Apr-2013 10:14:49] NOTICE: exiting, bye-bye!
+[18-Apr-2013 10:14:49] NOTICE: fpm is running, pid 12871
+[18-Apr-2013 10:14:49] NOTICE: ready to handle connections
+[13-May-2013 13:23:36] NOTICE: fpm is running, pid 5631
+[13-May-2013 13:23:36] NOTICE: ready to handle connections
+[13-May-2013 14:23:02] NOTICE: fpm is running, pid 1563
+[13-May-2013 14:23:02] NOTICE: ready to handle connections
+[20-May-2013 09:00:00] NOTICE: Terminating ...
+[20-May-2013 09:00:00] NOTICE: exiting, bye-bye!
+[20-May-2013 09:00:00] NOTICE: fpm is running, pid 19936
+[20-May-2013 09:00:00] NOTICE: ready to handle connections
+[20-May-2013 09:02:43] NOTICE: Terminating ...
+[20-May-2013 09:02:43] NOTICE: exiting, bye-bye!
+[20-May-2013 09:02:43] NOTICE: fpm is running, pid 19966
+[20-May-2013 09:02:43] NOTICE: ready to handle connections
+[20-May-2013 11:38:34] NOTICE: Terminating ...
+[20-May-2013 11:38:34] NOTICE: exiting, bye-bye!
+[20-May-2013 11:38:34] NOTICE: fpm is running, pid 20763
+[20-May-2013 11:38:34] NOTICE: ready to handle connections
+[20-May-2013 15:54:02] NOTICE: Terminating ...
+[20-May-2013 15:54:02] NOTICE: exiting, bye-bye!
+[20-May-2013 15:54:03] NOTICE: fpm is running, pid 23726
+[20-May-2013 15:54:03] NOTICE: ready to handle connections
+[20-May-2013 16:00:06] NOTICE: Terminating ...
+[20-May-2013 16:00:06] NOTICE: exiting, bye-bye!
+[20-May-2013 16:00:06] NOTICE: fpm is running, pid 23852
+[20-May-2013 16:00:06] NOTICE: ready to handle connections
+[20-May-2013 16:25:49] NOTICE: Terminating ...
+[20-May-2013 16:25:49] NOTICE: exiting, bye-bye!
+[20-May-2013 16:25:49] NOTICE: fpm is running, pid 24376
+[20-May-2013 16:25:49] NOTICE: ready to handle connections
+[20-May-2013 16:28:09] NOTICE: Terminating ...
+[20-May-2013 16:28:09] NOTICE: exiting, bye-bye!
+[20-May-2013 16:28:09] NOTICE: fpm is running, pid 24426
+[20-May-2013 16:28:09] NOTICE: ready to handle connections
+[20-May-2013 16:28:21] NOTICE: Terminating ...
+[20-May-2013 16:28:21] NOTICE: exiting, bye-bye!
+[20-May-2013 16:28:21] NOTICE: fpm is running, pid 24448
+[20-May-2013 16:28:21] NOTICE: ready to handle connections

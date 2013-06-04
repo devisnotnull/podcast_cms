@@ -1,0 +1,110 @@
+130405 14:37:22 mysqld_safe Starting mysqld daemon with databases from /var/lib/mysql
+130405 14:37:22 [Note] Plugin 'FEDERATED' is disabled.
+130405 14:37:22 InnoDB: The InnoDB memory heap is disabled
+130405 14:37:22 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+130405 14:37:22 InnoDB: Compressed tables use zlib 1.2.3
+130405 14:37:22 InnoDB: Using Linux native AIO
+130405 14:37:22 InnoDB: Initializing buffer pool, size = 128.0M
+130405 14:37:22 InnoDB: Completed initialization of buffer pool
+130405 14:37:22 InnoDB: highest supported file format is Barracuda.
+130405 14:37:22  InnoDB: Waiting for the background threads to start
+130405 14:37:23 Percona XtraDB (http://www.percona.com) 5.5.30-rel30.1 started; log sequence number 1686772
+130405 14:37:23 [Note] Event Scheduler: Loaded 0 events
+130405 14:37:23 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.5.30-30.1'  socket: '/var/lib/mysql/mysql.sock'  port: 3306  Percona Server (GPL), Release rel30.1, Revision 465
+130405 14:43:34 [Note] /usr/sbin/mysqld: Normal shutdown
+
+130405 14:43:34 [Note] Event Scheduler: Purging the queue. 0 events
+130405 14:43:36 [Warning] /usr/sbin/mysqld: Forcing close of thread 33  user: 'root'
+
+130405 14:43:36 [Warning] /usr/sbin/mysqld: Forcing close of thread 32  user: 'root'
+
+130405 14:43:36  InnoDB: Starting shutdown...
+130405 14:43:38  InnoDB: Shutdown completed; log sequence number 1686782
+130405 14:43:38 [Note] /usr/sbin/mysqld: Shutdown complete
+
+130405 14:43:38 mysqld_safe mysqld from pid file /var/lib/mysql/l4.pokerheaven.com.pid ended
+130405 14:43:38 mysqld_safe Starting mysqld daemon with databases from /var/lib/mysql
+130405 14:43:38 [Note] Plugin 'FEDERATED' is disabled.
+130405 14:43:38 InnoDB: The InnoDB memory heap is disabled
+130405 14:43:38 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+130405 14:43:38 InnoDB: Compressed tables use zlib 1.2.3
+130405 14:43:38 InnoDB: Using Linux native AIO
+130405 14:43:38 InnoDB: Initializing buffer pool, size = 128.0M
+130405 14:43:38 InnoDB: Completed initialization of buffer pool
+130405 14:43:38 InnoDB: highest supported file format is Barracuda.
+130405 14:43:38  InnoDB: Waiting for the background threads to start
+130405 14:43:39 Percona XtraDB (http://www.percona.com) 5.5.30-rel30.1 started; log sequence number 1686782
+130405 14:43:39 [Note] Event Scheduler: Loaded 0 events
+130405 14:43:39 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.5.30-30.1'  socket: '/var/lib/mysql/mysql.sock'  port: 3306  Percona Server (GPL), Release rel30.1, Revision 465
+130405 16:24:12 mysqld_safe Starting mysqld daemon with databases from /var/lib/mysql
+130405 16:24:12 [Note] Plugin 'FEDERATED' is disabled.
+130405 16:24:12 InnoDB: The InnoDB memory heap is disabled
+130405 16:24:12 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+130405 16:24:12 InnoDB: Compressed tables use zlib 1.2.3
+130405 16:24:12 InnoDB: Using Linux native AIO
+130405 16:24:12 InnoDB: Initializing buffer pool, size = 128.0M
+130405 16:24:12 InnoDB: Completed initialization of buffer pool
+130405 16:24:12 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+130405 16:24:12  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+130405 16:24:13  InnoDB: Waiting for the background threads to start
+130405 16:24:14 Percona XtraDB (http://www.percona.com) 5.5.30-rel30.1 started; log sequence number 1692040
+130405 16:24:14 [Note] Event Scheduler: Loaded 0 events
+130405 16:24:14 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.5.30-30.1'  socket: '/var/lib/mysql/mysql.sock'  port: 3306  Percona Server (GPL), Release rel30.1, Revision 465
+130405 16:36:19 mysqld_safe Starting mysqld daemon with databases from /var/lib/mysql
+130405 16:36:19 [Note] Plugin 'FEDERATED' is disabled.
+130405 16:36:19 InnoDB: The InnoDB memory heap is disabled
+130405 16:36:19 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+130405 16:36:19 InnoDB: Compressed tables use zlib 1.2.3
+130405 16:36:19 InnoDB: Using Linux native AIO
+130405 16:36:19 InnoDB: Initializing buffer pool, size = 128.0M
+130405 16:36:19 InnoDB: Completed initialization of buffer pool
+130405 16:36:19 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+130405 16:36:19  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+130405 16:36:19  InnoDB: Waiting for the background threads to start
+130405 16:36:20 Percona XtraDB (http://www.percona.com) 5.5.30-rel30.1 started; log sequence number 1692040
+130405 16:36:21 [Note] Event Scheduler: Loaded 0 events
+130405 16:36:21 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.5.30-30.1'  socket: '/var/lib/mysql/mysql.sock'  port: 3306  Percona Server (GPL), Release rel30.1, Revision 465
+130405 22:30:39 [Warning] IP address '118.244.187.235' could not be resolved: Name or service not known
+130405 23:11:14 [Warning] IP address '115.239.229.231' could not be resolved: Name or service not known
+130406  0:51:36 [Warning] IP address '196.202.240.22' could not be resolved: Name or service not known
+130406 19:05:34 mysqld_safe Starting mysqld daemon with databases from /var/lib/mysql
+130406 19:05:34 [Note] Plugin 'FEDERATED' is disabled.
+130406 19:05:35 InnoDB: The InnoDB memory heap is disabled
+130406 19:05:35 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+130406 19:05:35 InnoDB: Compressed tables use zlib 1.2.3
+130406 19:05:35 InnoDB: Using Linux native AIO
+130406 19:05:35 InnoDB: Initializing buffer pool, size = 128.0M
+130406 19:05:35 InnoDB: Completed initialization of buffer pool
+130406 19:05:35 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+130406 19:05:35  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+130406 19:05:35  InnoDB: Waiting for the background threads to start
+130406 19:05:36 Percona XtraDB (http://www.percona.com) 5.5.30-rel30.1 started; log sequence number 1692040
+130406 19:05:36 [Note] Event Scheduler: Loaded 0 events
+130406 19:05:36 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.5.30-30.1'  socket: '/var/lib/mysql/mysql.sock'  port: 3306  Percona Server (GPL), Release rel30.1, Revision 465
+130407  2:01:44 [Warning] IP address '180.169.18.5' could not be resolved: Name or service not known
+130407  4:09:37 [Warning] IP address '222.189.238.110' could not be resolved: Name or service not known
+130407  6:45:39 [Warning] IP address '198.13.97.234' could not be resolved: Temporary failure in name resolution
+130407 10:19:27 [Warning] IP address '222.73.219.164' could not be resolved: Name or service not known
